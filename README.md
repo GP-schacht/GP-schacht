@@ -51,11 +51,10 @@
 
 <div align="center">
 
-[![Monster Huenter web](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/proyecto-Front-end-MHW)
-[![Java CRUD](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/API-Spring-FireBase-Docker)
-[![React Native app](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-3&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/BibliotecaNative)
-[![Monster Hunter API](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-4&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/Proyecto-API-MHW)
-
+[![Monster Huenter web](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-Front-end-MHW&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-proyecto-Front-end-MHW)
+[![API-Spring-FireBase-Docker](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-API-Spring-FireBase-Docker&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-API-Spring-FireBase-Docker)
+[![BibliotecaNative](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-BibliotecaNative&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-BibliotecaNative)
+[![Proyecto-API-MHW](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-Proyecto-API-MHW&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-Proyecto-API-MHW)
 </div>
 
 ---
@@ -65,7 +64,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-pereira-561a95222/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](gaelgit02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portafolio-gp.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/GP-schacht)
 
 ---
 
