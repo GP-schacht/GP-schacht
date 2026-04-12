@@ -1,20 +1,20 @@
 <!-- BANNER -->
 <div align="center">
 
-# Hola, soy **Tu Nombre** 👋
+# Bienvenido a mi sandbox llamado GitHub 👋
 
-### Full Stack Developer · Open Source Enthusiast · Lifelong Learner
+### Full Stack Developer · Open Source Enthusiast · Cinema enjoiner
 
 </div>
 
 ---
 
-## 👤 Sobre mí
+## 👤 Gael Pereira (me)
 
-- 💼 Actualmente trabajando en **tu empresa / proyecto**
-- 🌱 Aprendiendo **tecnología que estás aprendiendo**
-- 🤝 Disponible para colaborar en proyectos **open source**
-- ⚡ Dato curioso: **algo interesante sobre ti**
+- 💼 Actualmente trabajando como freelance
+- 🌱 Aprendiendo automatizaciones 
+- 🤝 Disponible para colaborar en proyectos 
+- ⚡ a la orden para el desorden
 
 ---
 
