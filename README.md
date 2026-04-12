@@ -37,8 +37,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GP-schacht&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GP-schacht&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -48,10 +48,10 @@
 
 <div align="center">
 
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=nombre-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/TU-USUARIO/nombre-proyecto-1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=nombre-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/TU-USUARIO/nombre-proyecto-2)
-[![Proyecto 3](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=nombre-proyecto-3&theme=tokyonight&hide_border=true)](https://github.com/TU-USUARIO/nombre-proyecto-3)
-[![Proyecto 4](https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=nombre-proyecto-4&theme=tokyonight&hide_border=true)](https://github.com/TU-USUARIO/nombre-proyecto-4)
+[![Monster Huenter web](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-1&theme=tokyonight&hide_border=true)]([https://github.com/GP-schacht/nombre-proyecto-1](https://github.com/GP-schacht/proyecto-Front-end-MHW))
+[![Java CRUD](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-2&theme=tokyonight&hide_border=true)]([https://github.com/GP-schacht/nombre-proyecto-2](https://github.com/GP-schacht/API-Spring-FireBase-Docker))
+[![React Native app](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-3&theme=tokyonight&hide_border=true)]([https://github.com/GP-schacht/nombre-proyecto-3](https://github.com/GP-schacht/BibliotecaNative))
+[![Monster Hunter API](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-4&theme=tokyonight&hide_border=true)]([https://github.com/GP-schacht/nombre-proyecto-4](https://github.com/GP-schacht/Proyecto-API-MHW))
 
 </div>
 
@@ -59,10 +59,10 @@
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/GP-schacht](https://www.linkedin.com/in/gael-pereira-561a95222/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](gaelgit02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](portafolio-gp.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/GP-schacht)
 
 ---
 
