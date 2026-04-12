@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-# Bienvenido a mi sandbox llamado GitHub 👋
+# Bienvenido a mi sandbox llamado GitHub 
 
 ### Full Stack Developer · Open Source Enthusiast · Cinema enjoiner
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 👤 Gael Pereira (me)
+## Gael Pereira (me)
 
 - 💼 Actualmente trabajando como freelance
 - 🌱 Aprendiendo automatizaciones 
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Tecnologías
+## Tecnologías
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -27,7 +27,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
@@ -36,25 +35,25 @@
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <div align="center">
 
-![GitHub Stats](github-readme-stats-dusky-delta-13.vercel.app/api?username=GP-schacht&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GP-schacht&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-dusky-delta-13.vercel.app/api?username=GP-schacht&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-dusky-delta-13.vercel.app/api/top-langs/?username=GP-schacht&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <div align="center">
 
-[![Monster Huenter web](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-proyecto-Front-end-MHW&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-proyecto-Front-end-MHW)
-[![API-Spring-FireBase-Docker](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-API-Spring-FireBase-Docker&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-API-Spring-FireBase-Docker)
-[![BibliotecaNative](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-BibliotecaNative&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-BibliotecaNative)
-[![Proyecto-API-MHW](https://github-readme-stats.vercel.app/api/pin/?username=GP-schacht&repo=nombre-Proyecto-API-MHW&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-Proyecto-API-MHW)
+[![Monster Huenter web](https://github-readme-stats-dusky-delta-13.vercel.app/api/pin/?username=GP-schacht&repo=proyecto-Front-end-MHW&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-proyecto-Front-end-MHW)
+[![API-Spring-FireBase-Docker](https://github-readme-stats-dusky-delta-13.vercel.app/api/pin/?username=GP-schacht&repo=API-Spring-FireBase-Docker&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-API-Spring-FireBase-Docker)
+[![BibliotecaNative](https://github-readme-stats-dusky-delta-13.vercel.app/api/pin/?username=GP-schacht&repo=BibliotecaNative&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-BibliotecaNative)
+[![Proyecto-API-MHW](https://github-readme-stats-dusky-delta-13.vercel.app/api/pin/?username=GP-schacht&repo=Proyecto-API-MHW&theme=tokyonight&hide_border=true)](https://github.com/GP-schacht/nombre-Proyecto-API-MHW)
 </div>
 
 ---
