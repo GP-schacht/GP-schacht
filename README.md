@@ -39,8 +39,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-dusky-delta-13.vercel.app/api?username=GP-schacht&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-dusky-delta-13.vercel.app/api/top-langs/?username=GP-schacht&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-dusky-delta-13.vercel.app/api?username=GP-schacht&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats-dusky-delta-13.vercel.app/api/top-langs/?username=GP-schacht&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
